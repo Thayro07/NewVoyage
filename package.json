@@ -1,0 +1,28 @@
+{
+  "name": "newvoyage",
+  "version": "1.0.0",
+  "description": "discover new places and breathe new air with our newest tourism platform NewVoyage, always bringing you the best routes!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thayro07/NewVoyage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thayro07/NewVoyage/issues"
+  },
+  "homepage": "https://github.com/Thayro07/NewVoyage#readme",
+  "dependencies": {
+    "brcypt": "^1.0.1",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "prisma": "^6.8.2",
+    "sqlite3": "^5.1.7",
+    "zod": "^3.25.7"
+  }
+}
